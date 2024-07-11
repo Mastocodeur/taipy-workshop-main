@@ -1,0 +1,4 @@
+taipy==3.1
+scikit-learn
+pmdarima
+plotly
